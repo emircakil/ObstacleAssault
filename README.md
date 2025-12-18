@@ -10,4 +10,4 @@ That is my project w c++ in Unreal Engine. Platform game which I created.
 - [View on Fab.com](https://www.fab.com/listings/9841fee2-683f-4e68-adb8-bafec270a251)
 
 ## 🎮 Play Game
-- [Itch.io](https://emiraydin-9.itch.io/obstacle-assault)
+- [Download from Itch.io](https://emiraydin-9.itch.io/obstacle-assault)
